@@ -1,1 +1,20 @@
 # ch20
+
+This project creates a Solidity smart contract that accepts two user addresses. These addresses will be able to control a joint savings account. The smart contract will use ether management functions to implement a financial institution’s requirements for providing the features of the joint savings account. These features will consist of the ability to deposit and withdraw funds from the account.
+
+## Tech and library
+Ganache
+MetaMask
+Remix
+
+## Tool
+Solidity
+
+# Environment:
+JavaScript(London)
+
+Contributors
+Brought to you by 2coconi@gmail.com
+
+License
+This is under NM 2.0.
